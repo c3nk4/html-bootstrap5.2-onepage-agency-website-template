@@ -15,7 +15,7 @@ body {
   background-image: url(../images/hero-bg-1500x750px.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 677px;
+  height: 100vh;
   margin-top: -76px;
 }
 
@@ -152,7 +152,8 @@ body {
   width: 35px;
   border-top: 2px solid rgb(255, 100, 72);
   opacity: 1;
-  margin: revert;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .cont {
