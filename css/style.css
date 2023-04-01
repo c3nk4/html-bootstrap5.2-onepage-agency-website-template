@@ -377,6 +377,7 @@ nav a img {
   border-radius: 50px;
   font-size: 30px;
   z-index: 100;
+  transition: .4s;
 }
 
 .my-float {
@@ -463,6 +464,7 @@ nav a img {
 
 .wa-right:hover {
   color: #fff;
+  transform: rotate(45deg);
 }
 
 .footer {
