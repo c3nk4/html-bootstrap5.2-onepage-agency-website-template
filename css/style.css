@@ -100,7 +100,7 @@ body {
   line-height: 54px;
   text-align: center;
   border: rgb(42, 0, 247);
-  background: linear-gradient(to right, #000 50%, rgb(42, 0, 247 50%);
+  background: linear-gradient(to right, #000 50%, rgb(253 88 58) 50%);
   background-size: 200% 100%;
   background-position: right bottom;
   transition: all .5s ease-out;
