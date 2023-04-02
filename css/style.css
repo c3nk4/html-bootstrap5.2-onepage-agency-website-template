@@ -61,7 +61,6 @@ body {
   margin: 34px 0 0 7px;
   min-height: 54px;
   padding: 0 41px;
-  background-position: right bottom;
   background-color: rgb(253 88 58);
   position: relative;
   width: 180px;
@@ -73,14 +72,11 @@ body {
   line-height: 54px;
   text-align: center;
   border: rgb(253 88 58);
-  background: linear-gradient(to right, #201c1c 50%, rgb(253 88 58) 50%);
-  background-size: 200% 100%;
-  transition: all .5s ease-out;
 }
 
 .btn-1:hover {
   color: #fff;
-  background-position: left bottom;
+ 
 }
 
 .btn-2 {
@@ -88,7 +84,6 @@ body {
   margin: 34px 0 0 7px;
   min-height: 54px;
   padding: 0 41px;
-  background-position: right bottom;
   background-color: rgb(42, 0, 247);
   position: relative;
   width: 180px;
@@ -100,15 +95,10 @@ body {
   line-height: 54px;
   text-align: center;
   border: rgb(42, 0, 247);
-  border: rgb(253 88 58);
-  background: linear-gradient(to right, #201c1c 50%, rgb(42, 0, 247) 50%);
-  background-size: 200% 100%;
-  transition: all .5s ease-out;
 }
 
 .btn-2:hover {
   color: #fff;
-  background-position: left bottom;
 }
 
 .text-main {
