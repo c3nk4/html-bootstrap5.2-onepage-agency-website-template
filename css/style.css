@@ -63,8 +63,7 @@ body {
   padding: 0 41px;
   position: relative;
   width: 180px;
-  background: rgb(253 88 58);
-  color: #ffffff;
+  color: #fff;
   font-family: Montserrat, sans-serif;
   font-size: 15px;
   font-weight: 500;
@@ -74,7 +73,6 @@ body {
   border: rgb(253 88 58);
   background: linear-gradient(to right, #201c1c 50%, rgb(253 88 58) 50%);
   background-size: 200% 100%;
-  background-position: right bottom;
   transition: all .5s ease-out;
 }
 
@@ -90,8 +88,7 @@ body {
   padding: 0 41px;
   position: relative;
   width: 180px;
-  background-color: rgb(42, 0, 247);
-  color: #ffffff;
+  color: #fff;
   font-family: Montserrat, sans-serif;
   font-size: 15px;
   font-weight: 500;
@@ -102,7 +99,6 @@ body {
   border: rgb(253 88 58);
   background: linear-gradient(to right, #201c1c 50%, rgb(42, 0, 247) 50%);
   background-size: 200% 100%;
-  background-position: right bottom;
   transition: all .5s ease-out;
 }
 
