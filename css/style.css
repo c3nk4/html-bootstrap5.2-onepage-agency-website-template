@@ -76,7 +76,7 @@ body {
 }
 
 .btn-1:hover {
-  box-shadow: inset 0 100px 0 0 #1f971e;
+  box-shadow: inset 0 100px 0 0 rgb(205 36 5);
 }
 
 .btn-2 {
@@ -99,7 +99,7 @@ body {
 }
 
 .btn-2:hover {
-  box-shadow: inset 0 100px 0 0 #1f971e;
+  box-shadow: inset 0 100px 0 0 rgb(3 50 157);
 }
 
 .text-main {
