@@ -61,6 +61,7 @@ body {
   margin: 34px 0 0 7px;
   min-height: 54px;
   padding: 0 41px;
+  background-color: rgb(253 88 58);
   position: relative;
   width: 180px;
   color: #fff;
@@ -86,6 +87,7 @@ body {
   margin: 34px 0 0 7px;
   min-height: 54px;
   padding: 0 41px;
+  background-color: rgb(42, 0, 247);
   position: relative;
   width: 180px;
   color: #fff;
