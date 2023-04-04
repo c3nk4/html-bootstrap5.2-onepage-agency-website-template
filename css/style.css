@@ -26,6 +26,7 @@ body {
   font-weight: 700;
   letter-spacing: 0.1em;
   margin-top: 20px;
+  transition: .3s;
 }
 
 .navbar .navbar-nav .nav-item .nav-link:hover {
@@ -42,6 +43,7 @@ body {
   font-family: Montserrat, sans-serif;
   font-size: 41px;
   font-weight: 600;
+  text-shadow: 0 1px 0 rgb(98 89 89 / 47%);
   letter-spacing: 0.01em;
 }
 
@@ -96,7 +98,6 @@ body {
   font-family: Montserrat, sans-serif;
   font-size: 15px;
   font-weight: 500;
-  white-space: nowrap;
   letter-spacing: 0.1em;
   line-height: 54px;
   text-align: center;
